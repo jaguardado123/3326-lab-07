@@ -16,7 +16,7 @@ Exactly the same as C++. But let's refresh anyways.
 
 Java has the same decision making statements as C++: `if`, `else`, `else if`, and `switch`.
 
-<img src="img/decision-making.jpeg" width="400px">
+<img src="img/decision-making.png" width="600px">
 
 For more information on decision making in Java visit: https://www.w3schools.com/java/java_conditions.asp  and https://www.w3schools.com/java/java_switch.asp
 
@@ -40,10 +40,12 @@ Here is the criteria for assigning a letter grade:
 
 **Note:** If the teacher inputs a negative number, let them know "Oops you input a negative value".
 
-**Expected Output:**
+**Suggested Output:**
 
 <img src="img/lab6-expected.png" width="400px">
 
 ## Submit your assignment
 
-To submit your lab assignment click on the **Source Control** icon (3 circles with 2 lines) on your leftside navbar. Next, click on the **+** symbol next to **Changes** to stage your changes. Lastly, add a commit message (ex: "First commit") and click **Commit** then **Sync Changes**. And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_07.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
