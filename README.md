@@ -35,24 +35,29 @@ Copy the code snippet below and paste it inside your **main() method** in your j
 int num = 77;
 /* Write your DM statement here. */
 
-// Problem 2. If the value inside car_speed is greater than 70 output "Speeding", otherwise output "Not Speeding".
+// Problem 2. If the value inside car_speed is greater than 70 output "Speeding",
+//            otherwise output "Not Speeding".
 float car_speed = 82.5f;
 /* Write your DM statement here. */
 
 // Problem 3. If the value inside grade is greater than 90 output "Excellent",
-//            otherwise if the value inside grade is greater than 70 output "Good Job", otherwise output "Failed".
+//            otherwise if the value inside grade is greater than 70 output "Good Job",
+//            otherwise output "Failed".
 double grade = 89.9999;
 /* Write your DM statement here. */
 
 // Problem 4. If the first character in word is capitalized output "Uppercase",
-//            otherwise if the first letter is not capitalized output "Lowercase", otherwise output "Non Alphabet".
+//            otherwise if the first letter is not capitalized output "Lowercase",
+//            otherwise output "Non Alphabet".
 String word = "Hello There";
 /* Write your DM statement here. */
 
-// Problem 5. (**User the Ternary Operation here**) If the value inside temp is greater than or equal to 90 assign "Hot" to weather,
+// Problem 5. (**User the Ternary Operation here**)
+//            If the value inside temp is greater than or equal to 90 assign "Hot" to weather,
 //            otherwise assign "Cool" to weather.
 float temp = 77.2f;
 String weather; /* Write your ternary operation here. */
+
 System.out.println( weather );
 
 /*
