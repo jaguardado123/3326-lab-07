@@ -22,27 +22,39 @@ For more information on decision making in Java visit: https://www.w3schools.com
 
 ## Your Assignment
 
-### Letter Grade Calculator
+### Decision Making Statement Practice
 
-Assume you are a school teacher working at Texas High and you have decided to write a program to help you assign a letter grade to your students based on their scores.
+For this lab assignment I want you to practice working with decision making if/else statements. 
 
-Here is the criteria for assigning a letter grade:
+Create the corresponding decision making statement to output the appropriate message.
 
-| Score Range | Letter Grade |
-| ---- | ---- |
-| 90+ | A |
-| 80+ | B |
-| 70+ | C |
-| 60+ | D |
-| -60 | F |
+Copy the code snippet below and paste it inside your **main() method** in your java file.
 
-**Remember:** Grade scores usually invovle decimal values.
+```java
+// Problem 1. If the value inside num is even output "Even", otherwise output "Odd".
+int num = 77;
+/* Write your DM statement here. */
 
-**Note:** If the teacher inputs a negative number, let them know "Oops you input a negative value".
+// Problem 2. If the value inside car_speed is greater than 70 output "Speeding", otherwise output "Not Speeding".
+float car_speed = 82.5f;
+/* Write your DM statement here. */
 
-**Suggested Output:**
+// Problem 3. If the value inside grade is greater than 90 output "Excellent", otherwise if the value inside grade is greater than 70 output "Good Job", otherwise output "Failed".
+double grade = 89.9999;
+/* Write your DM statement here. */
 
-<img src="img/lab6-expected.png" width="400px">
+// Problem 4. If the first character in word is capitalized output "Uppercase", otherwise if the first letter is not capitalized output "Lowercase", otherwise output "Non Alphabet".
+String word = "Hello There";
+/* Write your DM statement here. */
+
+/*
+Expected Output:
+Odd
+Speeding
+Good Job
+Uppercase
+*/
+```
 
 ## Submit your assignment
 
