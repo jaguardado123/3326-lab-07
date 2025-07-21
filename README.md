@@ -49,12 +49,19 @@ double grade = 89.9999;
 String word = "Hello There";
 /* Write your DM statement here. */
 
+// Problem 5. (**User the Ternary Operation here**) If the value inside temp is greater than or equal to 90 assign "Hot" to weather,
+//            otherwise assign "Cool" to weather.
+float temp = 77.2f;
+String weather; /* Write your ternary operation here. */
+System.out.println( weather );
+
 /*
 Expected Output:
 Odd
 Speeding
 Good Job
 Uppercase
+Cool
 */
 ```
 
