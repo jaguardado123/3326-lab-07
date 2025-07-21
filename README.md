@@ -39,11 +39,13 @@ int num = 77;
 float car_speed = 82.5f;
 /* Write your DM statement here. */
 
-// Problem 3. If the value inside grade is greater than 90 output "Excellent", otherwise if the value inside grade is greater than 70 output "Good Job", otherwise output "Failed".
+// Problem 3. If the value inside grade is greater than 90 output "Excellent",
+//            otherwise if the value inside grade is greater than 70 output "Good Job", otherwise output "Failed".
 double grade = 89.9999;
 /* Write your DM statement here. */
 
-// Problem 4. If the first character in word is capitalized output "Uppercase", otherwise if the first letter is not capitalized output "Lowercase", otherwise output "Non Alphabet".
+// Problem 4. If the first character in word is capitalized output "Uppercase",
+//            otherwise if the first letter is not capitalized output "Lowercase", otherwise output "Non Alphabet".
 String word = "Hello There";
 /* Write your DM statement here. */
 
