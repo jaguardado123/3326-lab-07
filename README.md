@@ -31,7 +31,8 @@ Create the corresponding decision making statement to output the appropriate mes
 Copy the code snippet below and paste it inside your **main() method** in your java file.
 
 ```java
-// Problem 1. If the value inside num is even output "Even", otherwise output "Odd".
+// Problem 1. If the value inside num is even output "Even",
+//            otherwise output "Odd".
 int num = 77;
 /* Write your DM statement here. */
 
