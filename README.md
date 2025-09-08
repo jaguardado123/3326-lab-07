@@ -1,6 +1,6 @@
-# Lab Assignment 07
+# Lab 07
 
-In this lab you will practice working with decision making statements.
+In this lab you will practice working with **decision making statements**.
 
 Same as the previous labs, you need to set up your workspace (class and main() method).
 
@@ -71,8 +71,14 @@ Cool
 */
 ```
 
-## Submit your assignment
+<br>
 
-[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_07.pdf)
+**Grading Criteria:**
+| Criteria | Points |
+|---|---|
+| Used correct decision making statement that matches requirements (-10 points for each incorrect statement). | 50 |
+| Used a Ternary Operation for Problem 5. | 20 |
+| File and class are named Decisions | 20 |
+| Class is public | 10 |
 
 [How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
